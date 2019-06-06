@@ -1,4 +1,4 @@
 # practice
-I put some code that I studied.
+I put some codes that I really wrote
 
 
